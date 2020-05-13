@@ -21,7 +21,7 @@ We have used **AutoCad** for the design of our fan and **Tinkercad** for our cir
 
 <img src= "cs209/Images/frontDimension.png" width="400"> <img src= "cs209/Images/fanDimension.png" width="220"> <img src= "cs209/Images/caseDimension.png" width="180">
 
-The fan is drawn with its dimensions; however, dimensions are so large that they can't be seen.
+> The fan is drawn with its dimensions; however, dimensions are so large that they can't be seen.
 
 **Dimensions are: 184.0 × 47.0 × 184.0 mm**
 
