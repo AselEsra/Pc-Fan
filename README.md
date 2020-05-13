@@ -13,7 +13,7 @@ We have created a pc fan for active cooling. Fans are used to draw cooler air in
 Our fan consists of two parts; inner part & outer part = **Fan & Case**
 We have used **AutoCad** for the design of our fan and **Tinkercad** for our circuit.
 
-`All the files needed could be found inside the **cs209** folder. Like, STL files, the code, images(circuit, fan design, cura secreenshot), sources(.dwg, .brd).`
+`All the files needed could be found inside the` **cs209** `folder. Like, STL files, the code, images(circuit, fan design, cura secreenshot), sources(.dwg, .brd).`
 
 > Thingiverse link: https://www.thingiverse.com/thing:4359206
 
@@ -33,7 +33,11 @@ We have used **AutoCad** for the design of our fan and **Tinkercad** for our cir
 
 <img src= "cs209/Images/Components.jpeg">
 
-***1. Stimulated circuit; <img src= "cs209/Images/circuitStimulation.png" width="240"> 2. Circuit without stimulation***
+***1. Stimulated circuit;***
+
+<img src= "cs209/Images/circuitStimulation.png" width="240">
+
+***2. Circuit without stimulation***
  <img src= "cs209/Images/circuit.png" width="240">
 
 
