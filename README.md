@@ -15,7 +15,7 @@ We have used **AutoCad** for the design of our fan and **Tinkercad** for our cir
 
 `All the files needed could be found inside the **cs209** folder. Like, STL files, the code, images(circuit, fan design, cura secreenshot), sources(.dwg, .brd).`
 
-Thingiverse link:[Thingiverse](https://www.thingiverse.com/thing:4359206)
+> Thingiverse link: https://www.thingiverse.com/thing:4359206
 
 ### Design with Dimensions;
 
@@ -33,7 +33,7 @@ The fan is drawn with its dimensions; however, dimensions are so large that they
 
 <img src= "cs209/Images/Components.jpeg">
 
-**1. Stimulated circuit <img src= "cs209/Images/circuitStimulation.png" width="150"> 2. Circuit without stimulation**
- <img src= "cs209/Images/circuit.png" width="150">
+**1. Stimulated circuit  <img src= "cs209/Images/circuitStimulation.png" width="300">    2. Circuit without stimulation**
+ <img src= "cs209/Images/circuit.png" width="300">
 
 
