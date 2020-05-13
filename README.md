@@ -33,7 +33,7 @@ The fan is drawn with its dimensions; however, dimensions are so large that they
 
 <img src= "cs209/Images/Components.jpeg">
 
-**1. Stimulated circuit  <img src= "cs209/Images/circuitStimulation.png" width="300">    2. Circuit without stimulation**
- <img src= "cs209/Images/circuit.png" width="300">
+***1. Stimulated circuit; <img src= "cs209/Images/circuitStimulation.png" width="240"> 2. Circuit without stimulation***
+ <img src= "cs209/Images/circuit.png" width="240">
 
 
