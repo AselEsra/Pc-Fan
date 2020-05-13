@@ -1,6 +1,6 @@
 # Pc-Fan
 
-### Team Members
+### *Team Members*
 
 - Asel Esra Ozyilmaz
 - Selma Nezihoglu
@@ -25,18 +25,18 @@ We have used ***AutoCad*** for the design of our fan and ***TinkerCad*** for our
 
 **Dimensions are: 184.0 × 47.0 × 184.0 mm**
 
-### Cura Secreenshot;
+### *Cura Secreenshot;*
 
 <img src= "cs209/Images/pcFanCura.jpg" width="400">
 
-### Circuit & Parts List
+### *Parts List & Circuit;*
 
 <img src= "cs209/Images/Components.jpeg">
 
-***1. Stimulated circuit;***
+**1. Stimulated circuit;**
 
 <img src= "cs209/Images/circuitStimulation.png" width="300">
 
-***2. Circuit without stimulation***
+**2. Circuit without stimulation**
 
  <img src= "cs209/Images/circuit.png" width="300">
