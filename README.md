@@ -13,15 +13,15 @@ We have created a pc fan for active cooling. Fans are used to draw cooler air in
 Our fan consists of two parts; inner part & outer part = **Fan & Case**
 We have used ***AutoCad*** for the design of our fan and ***TinkerCad*** for our circuit.
 
-> All the files needed could be found inside the cs209 folder. Like, STL files, the code, images(circuit, fan design, cura secreenshot), sources(.dwg, .brd).
+`All the files needed could be found inside the cs209 folder. Like, STL files, the code, images(circuit, fan design, cura secreenshot), sources(.dwg, .brd).`
 
 > Thingiverse link: https://www.thingiverse.com/thing:4359206
 
-### Design with Dimensions;
+### *Design with Dimensions;*
 
 <img src= "cs209/Images/frontDimension.png" width="400"> <img src= "cs209/Images/fanDimension.png" width="220"> <img src= "cs209/Images/caseDimension.png" width="180">
 
-`The fan is drawn with its dimensions; however, dimensions are so large that they can't be seen.`
+> The fan is drawn with its dimensions; however, dimensions are so large that they can't be seen.
 
 **Dimensions are: 184.0 × 47.0 × 184.0 mm**
 
